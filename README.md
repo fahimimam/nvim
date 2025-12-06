@@ -364,7 +364,7 @@ Press `<Space>` to see leader-based keybindings, or check this README!
 
 ## 🎨 Theme
 
-The colorscheme is **Catppuccin Mocha** - a warm, pastel-inspired dark theme. To change flavors, edit `lua/plugins/colorscheme.lua` and set `flavour` to:
+The colorscheme is **Catppuccin Mocha** - a warm, pastel-inspired dark theme. To change flavours, edit `lua/plugins/colorscheme.lua` and set `flavour` to:
 - `latte` (light)
 - `frappe` (medium dark)
 - `macchiato` (dark)
